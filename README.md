@@ -1,6 +1,6 @@
 <h2 align="center">
   Nicholas Brinson | Portfolio Website<br/>
-  <a href="https://www.nicholasbrinson.tech/" target="_blank">nicholasbrinson.tech</a>
+  <a href="https://www.nbrinson.com/" target="_blank">nbrinson.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
