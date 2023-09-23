@@ -10,11 +10,13 @@
 <br/>
 
 <div align="center">
+  
 ![GitHub Repo stars](https://img.shields.io/github/stars/nbrinson2/portfolio-site-2?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/nbrinson2/portfolio-site-2?color=red&logo=github&style=for-the-badge)
+
 </div>
 
-Should you fork and adapt this repository, please attribute by linking to [nbrinson2](https://github.com/nbrinson2/portfolio-site-2). Much appreciated! 😍
+Should you fork and adapt this repository, please attribute by linking to [nbrinson2](https://github.com/nbrinson2/portfolio-site-2). Much appreciated!z
 
 ## Introduction
 
